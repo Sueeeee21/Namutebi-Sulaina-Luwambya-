@@ -1,0 +1,5 @@
+age = 12
+gpa = 3.9
+
+
+print(int(gpa))
